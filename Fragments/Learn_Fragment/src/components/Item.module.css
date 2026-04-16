@@ -1,0 +1,11 @@
+.sdItem {
+  background-color: #427cb6;
+}
+.sdSpan {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.button {
+  float: right;
+}
