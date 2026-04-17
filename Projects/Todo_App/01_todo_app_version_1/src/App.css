@@ -1,0 +1,19 @@
+h1{
+  font-weight: 900;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+input{
+  width: 100%;
+
+}
+.item-container{
+  text-align: left;
+}
+.sd-row{
+  margin: 10px 5px;
+}
+.sd-button{
+  min-width: 75px;
+}
